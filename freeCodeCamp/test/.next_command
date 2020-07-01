@@ -286,3 +286,5 @@ find
 rm --help
 rmdir -r fonts
 rm -r fonts
+ls --color=auto
+ls --color=auto -a
