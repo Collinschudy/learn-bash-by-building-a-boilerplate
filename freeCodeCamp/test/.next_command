@@ -359,3 +359,4 @@ ls --color=auto
 find name freeCodeCamp
 clear
 mv website website-boilerplate
+ls --color=auto
