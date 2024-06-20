@@ -354,3 +354,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd website
 more README.md
 cd ..
+ls --color=auto -l
