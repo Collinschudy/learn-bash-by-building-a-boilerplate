@@ -223,3 +223,5 @@ mv freeCodeCamp client/assets/icons
 mv freeCodeCamp.svg client/asssets/icons
 mv freeCodeCamp.svg client/assets/icons
 find
+mkdir client/assets
+mkdir client/assets/fonts
