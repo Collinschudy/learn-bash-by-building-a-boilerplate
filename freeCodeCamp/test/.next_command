@@ -189,3 +189,5 @@ touch background.jpg
 cd ../../..
 cd images
 ls --color=auto
+__vsc_prompt_cmd_original
+mv header.png ..
