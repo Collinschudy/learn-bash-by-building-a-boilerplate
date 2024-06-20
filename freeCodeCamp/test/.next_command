@@ -104,3 +104,4 @@ cd website
 ls --color=auto --help
 clear
 ls --color=auto -a
+cd .
