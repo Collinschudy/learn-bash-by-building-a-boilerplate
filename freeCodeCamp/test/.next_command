@@ -147,3 +147,8 @@ ls --color=auto
 rm header.png
 rm footer.jpeg
 ls --color=auto
+touch fee.png dee.png
+ls --color=auto
+rm fee.png dee.png
+ls --color=auto
+mv roboto.font roboto.woff
