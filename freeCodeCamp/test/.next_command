@@ -355,3 +355,7 @@ cd website
 more README.md
 cd ..
 ls --color=auto -l
+ls --color=auto
+find name freeCodeCamp
+clear
+mv website website-boilerplate
